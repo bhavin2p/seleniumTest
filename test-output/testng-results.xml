@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-25T20:36:59 IST" name="Default suite" finished-at="2022-02-25T20:37:29 IST" duration-ms="29756">
+    <groups>
+    </groups>
+    <test started-at="2022-02-25T20:36:59 IST" name="Default test" finished-at="2022-02-25T20:37:29 IST" duration-ms="29756">
+      <class name="testAcademy.TestNGAnnotations">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:36:59 IST" name="setupSuite" finished-at="2022-02-25T20:36:59 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setupTests()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:36:59 IST" name="setupTests" finished-at="2022-02-25T20:36:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTests -->
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:36:59 IST" name="setupClass" finished-at="2022-02-25T20:36:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:36:59 IST" name="setupTest" finished-at="2022-02-25T20:37:09 IST" duration-ms="9435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="firstTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:09 IST" name="firstTest" finished-at="2022-02-25T20:37:13 IST" duration-ms="3814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method is-config="true" signature="teardownTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:13 IST" name="teardownTest" finished-at="2022-02-25T20:37:14 IST" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:14 IST" name="setupTest" finished-at="2022-02-25T20:37:21 IST" duration-ms="6884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="secondTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:21 IST" name="secondTest" finished-at="2022-02-25T20:37:26 IST" duration-ms="5319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method is-config="true" signature="teardownTest()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:26 IST" name="teardownTest" finished-at="2022-02-25T20:37:29 IST" duration-ms="2613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTest -->
+        <test-method is-config="true" signature="teardownClass()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:29 IST" name="teardownClass" finished-at="2022-02-25T20:37:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownClass -->
+        <test-method is-config="true" signature="teardownTests()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:29 IST" name="teardownTests" finished-at="2022-02-25T20:37:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownTests -->
+        <test-method is-config="true" signature="teardownSuite()[pri:0, instance:testAcademy.TestNGAnnotations@418e7838]" started-at="2022-02-25T20:37:29 IST" name="teardownSuite" finished-at="2022-02-25T20:37:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownSuite -->
+      </class> <!-- testAcademy.TestNGAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
